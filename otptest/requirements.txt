@@ -1,0 +1,10 @@
+gunicorn
+twilio
+Django==1.10.4
+django-bootstrap3==7.1.0
+django-extensions==1.7.5
+django-otp==0.3.8
+django-otp-twilio==0.3.6
+python-decouple==3.0
+Unipath==1.1
+
